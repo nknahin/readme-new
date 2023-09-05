@@ -94,7 +94,7 @@ http://www.studywithanis.com
 
 ### Disable Link
 
-`http://www.studywithanis.com`
+`http://www.learnwithnahin.com`
 
 <!-- Website link -->
 
@@ -102,7 +102,7 @@ http://www.studywithanis.com
 
 ### Markdown link stntax
 
-[study with anis][websitelink]
+[study with nahin][websitelink]
 
 <br>
 
